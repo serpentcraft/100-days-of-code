@@ -39,6 +39,8 @@
 | 14 | `day_14.py` | Higher or Lower |
 | 15 | `day_15.py` | Coffee Machine (procedural) |
 | 16 | `day_16.py` | Coffee Machine (OOP) |
+| 17 | `day_17.py` | Quiz Game with API |
+| 18 | `day_18.py` | Turtle Graphics |
 
 ## 🤖 Технологии 
 
